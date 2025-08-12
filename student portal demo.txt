@@ -1,0 +1,7 @@
+Name of the student : Varshini Ragavalli Gopi
+Name of the college: Aditya Degree college
+Name of the Course : BCA
+Suc Number  : 2358250110
+Hall ticket number: 230377401081
+phone number : 8008205502
+Average Cgpa : 8.79%
